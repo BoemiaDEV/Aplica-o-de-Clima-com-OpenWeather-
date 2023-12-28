@@ -15,6 +15,7 @@ body{
 
 .hide{
     display: none;
+
 }
 
 .container{
@@ -23,6 +24,8 @@ body{
     padding: 2rem;
     color: #fdfdfd;
     border-radius: 1rem;
+    transform: scale(1);
+    transition: .4s;
 }
 
 
